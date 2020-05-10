@@ -1,0 +1,11 @@
+name: binderenv
+dependencies:
+  - bokeh==2.0.1
+  - pandas==1.0.3
+  - scipy==1.4.1
+  - numpy==1.16.1
+  - matplotlib
+  - pip
+  - pip:
+    - jupyter-server-proxy
+
